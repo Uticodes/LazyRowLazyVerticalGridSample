@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LazyRowLazyVerticalGridSample</string>
+    <string name="burger">Burger</string>
+    <string name="kitkat_choco">KIt Kat Choc..</string>
+    <string name="chocolates">Chocolates</string>
+    <string name="fast_foods">Fast Foods</string>
+    <string name="an_icon">Icon</string>
+    <string name="_4.15">£4.15</string>
+</resources>
